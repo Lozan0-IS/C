@@ -1,0 +1,60 @@
+Este repositorio forma parte de mi portafolio académico de programación, y reúne una serie de ejercicios desarrollados en PSeInt, orientados al fortalecimiento de la lógica computacional, el pensamiento algorítmico y la resolución estructurada de problemas.
+
+Cada archivo representa un caso práctico aplicado a situaciones reales o académicas, utilizando principios fundamentales de programación estructurada.
+
+📂 Contenido del Repositorio
+Archivo	Área / Tema Principal	Descripción
+academico.psc	Cálculo académico	Procesos relacionados con manejo de calificaciones y evaluaciones.
+caculadoenotacor.psc	Notas y evaluación	Algoritmo para calcular una nota o puntuación final según criterios establecidos.
+nominaConstructora.psc	Nómina / Empresas	Simulación de cálculo de nómina para trabajadores de una constructora.
+numerenteros.psc	Lógica numérica	Manipulación de números enteros, ciclos y validaciones.
+numeroPrimo.psc	Matemática / Algoritmos	Determina si un número es primo mediante estructura repetitiva y condicional.
+trabajo.psc	Ejercicio general	Algoritmo elaborado como parte de una práctica específica del curso.
+
+🧠 Competencias Desarrolladas
+
+Diseño de algoritmos
+
+Pensamiento lógico y estructurado
+
+Modelado de problemas reales en pseudocódigo
+
+Uso de condicionales, ciclos, variables y estructuras secuenciales
+
+Buenas prácticas de programación inicial
+
+🛠️ Tecnologías y Herramientas
+
+PSeInt (Pseudocódigo estructurado)
+
+Diagramas de flujo
+
+Conceptos fundamentales de programación
+
+Metodología de resolución de problemas
+
+🎯 Objetivo del Proyecto
+
+Este repositorio funciona como evidencia de mi progreso en el área de programación, demostrando:
+
+Mi capacidad para resolver problemas lógicos
+
+Mi avance en sintaxis estructurada
+
+Mi formación como programador en etapa inicial
+
+Mi compromiso con el aprendizaje continuo en tecnología
+
+👨‍💻 Sobre mí
+
+Soy Alan Lozano, estudiante de Ciberseguridad y Programación, con interés en mejorar mis habilidades técnicas y construir un portafolio sólido para mi desarrollo profesional.
+
+Actualmente profundizo en:
+
+Lógica de programación
+
+Redes y ciberseguridad
+
+Automatización y scripting
+
+Desarrollo de habilidades computacionales
